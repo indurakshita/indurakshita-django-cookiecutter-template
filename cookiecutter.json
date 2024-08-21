@@ -1,0 +1,9 @@
+{
+    "project_name": "MyDjangoProject",
+    "app_name": "MyDjangoApp",
+    "author_name": "Indumathi",
+    "description": "A Django project with DRF integration",
+    "django_version": "5.0.6",
+    "python_version": "3.11",
+    "env":"local"
+  }
